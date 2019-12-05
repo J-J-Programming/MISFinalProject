@@ -1,0 +1,10 @@
+1#Cold#60
+2#Sore throat#65
+3#Blood work#75
+4#Flu#80
+5#Minor injury#70
+6#Ear infection#85
+7#Allergy#55
+8#Burn#95
+9#Rash#90
+10#Vaccines#100
